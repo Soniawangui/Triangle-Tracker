@@ -1,0 +1,15 @@
+h1 {
+  text-align: center;
+  font-size: 60px;
+  font-style: bold;
+  font-family: "Cantarell" sans-serif;
+  font-weight: bolder;
+  color: rgb(87, 52, 119);
+}
+body {
+  background-color: rosybrown;
+  font-family: "Cantearell" sans-serif;
+  font-size: 30px;
+  color: black;
+
+}
