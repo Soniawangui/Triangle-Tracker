@@ -11,6 +11,8 @@ body {
   font-family: "Cantearell" sans-serif;
   font-size: 30px;
   color: black;
+  background-image: url("../Triangle-tracker/images/background.jpg");
+  background-size: cover;
 
 }
 h2{
