@@ -4,13 +4,13 @@ h1 {
   font-style: bold;
   font-family: "Cantarell" sans-serif;
   font-weight: bolder;
-  color: rgb(0, 0, 0);
+  color: wheat;
 }
 body {
   font-family: "Cantarell" sans-serif;
   font-size: 30px;
-  color:black;
-  background-color: thistle;
+  color: wheat;
+  background-image: url("images/Newback.jpg");
   background-size: cover;
   font-style: initial;
 
