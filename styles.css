@@ -4,10 +4,10 @@ h1 {
   font-style: bold;
   font-family: "Cantarell" sans-serif;
   font-weight: bolder;
-  color: rgb(87, 52, 119);
+  color: white;
 }
 body {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Cantarell" sans-serif;
   font-size: 30px;
   color:white;
   background-image: url("../Triangle-tracker/images/background.jpg");
