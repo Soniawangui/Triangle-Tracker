@@ -7,12 +7,12 @@ h1 {
   color: rgb(87, 52, 119);
 }
 body {
-  background-color: rosybrown;
-  font-family: "Cantearell" sans-serif;
+  font-family: 'Courier New', Courier, monospace;
   font-size: 30px;
   color:white;
   background-image: url("../Triangle-tracker/images/background.jpg");
   background-size: cover;
+  font-style: initial;
 
 }
 h2{
