@@ -9,8 +9,8 @@ h1 {
 body {
   font-family: "Cantarell" sans-serif;
   font-size: 30px;
-  color:white;
-  background-image: url("images/background.jpg");
+  color:black;
+  background-color: thistle;
   background-size: cover;
   font-style: initial;
 
