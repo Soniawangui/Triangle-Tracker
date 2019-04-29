@@ -1,6 +1,6 @@
-# {Application Name}
-#### {Brief description of application}, {Date of current version}
-#### By **{List of contributors}**
+# {Triangle-Tracker}
+#### {It shows whether a triangle is an isosceles,equilateral or scalene triangle}, {April 29 2019}
+#### By **{Sonia Habamba}**
 ## Description
 {This is a detailed description of my Triangle tracker, if you type in a number it will tell you whether it's an isosceles triangle,equilateral or scalene. }
 ## Setup/Installation Requirements
