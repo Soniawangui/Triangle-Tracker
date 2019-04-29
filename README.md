@@ -10,12 +10,12 @@ This is a detailed description of my Triangle tracker, if you type in a number i
 * easy-to-understand
 * format
 ## Known Bugs
-{There are no bugs that I know of if you find any bug please feel free to change it or contact me @koisonia99@gmail.com. }
+There are no bugs that I know of if you find any bug please feel free to change it or contact me @koisonia99@gmail.com. 
 ## Technologies Used
 I used HTML,,CSS and Javascript. 
 ## Support and contact details
 If you run into any problem please inform me at +254702572470 or @koisonia99@gmail.com.
 ### License
 {MIT} (https://choosealicense.com/licenses/mit/)
-Copyright (c) {2019} **{List of contributors or company name}**
+Copyright (c) {2019} **{Sonia Habamba}**
   
